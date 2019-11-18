@@ -1,4 +1,8 @@
-# AngularGithubActions
+# Angular CLI with Github Actions
+
+[![build status](https://github.com/coryrylan/angular-github-actions/workflows/Build/badge.svg)](https://github.com/coryrylan/lithium/actions)
+
+[Tutorial Blog Post](https://coryrylan.com/blog/building-angular-cli-with-github-actions)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.2.
 
